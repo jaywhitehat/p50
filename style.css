@@ -1,0 +1,21 @@
+
+
+.origami1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:grey ;
+}
+.origami2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:grey ;
+}
+body{
+    background-color: darkgrey;
+}
+.header{
+    font-style: bold;
+}
+.extra{
+    font-style: italic;
+}
